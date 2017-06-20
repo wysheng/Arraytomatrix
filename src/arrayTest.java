@@ -22,7 +22,7 @@ public class arrayTest {
 						System.out.print(awarry[i1][j1]+"\t");
 						
 					
-					System.out.println();
+					System.out.println();//每次输出要换行
 				}
 				
 			
